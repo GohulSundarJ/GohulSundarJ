@@ -43,7 +43,7 @@
 </p><h3 align="center">CURRENTLY WHAT I AM LEARNING :</h3>
 <p align="center">
 <a><img align="center" src="https://github.com/GohulSundarJ/Gohul-Sundar/blob/main/python.jpg" alt="Gohul" height="30" width="40" /></a>
-<a><img align="center" src="https://github.com/GohulSundarJ/Gohul-Sundar/blob/main/blender.jpg" alt="Gohul" height="30" width="40" /></a>
+<a><img align="center" src="https://github.com/GohulSundarJ/Gohul-Sundar/blob/main/belnder_2.jpg" alt="Gohul" height="30" width="40" /></a>
 
 </p>
 
