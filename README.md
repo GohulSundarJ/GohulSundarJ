@@ -34,8 +34,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/gohul-sundar-782385217/" target="blank"><img align="center" src="https://github.com/GohulSundarJ/Gohul-Sundar/blob/main/link2.png" alt="Gohul" height="30" width="40" /></a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZXhMQdGlWWCFNZKsLkDxmsCXKkjKLplhBhXrDCbNFkrpgVdrjLdzCPSCJxZGDtMVtBBdV" target="blank"><img align="center" src="https://github.com/GohulSundarJ/Gohul-Sundar/blob/main/gmail.png" alt="Gohul" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/search/results/all/?keywords=gohul%20sundar&origin=GLOBAL_SEARCH_HEADER&sid=1-~" target="blank"><img align="center" src="https://github.com/GohulSundarJ/Gohul-Sundar/blob/main/link2.png" alt="Gohul" height="30" width="40" /></a>
+<a href="sundargohul@gmail.com" target="blank"><img align="center" src="https://github.com/GohulSundarJ/Gohul-Sundar/blob/main/gmail.png" alt="Gohul" height="30" width="40" /></a>
 <a href="https://twitter.com/10Gohul" target="blank"><img align="center" src="https://github.com/GohulSundarJ/Gohul-Sundar/blob/main/twitter.png" alt="Gohul" height="30" width="40" /></a>
 
 
