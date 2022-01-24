@@ -15,7 +15,7 @@
 
 <br>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GohulSundarJ&" alt="hafnium@72" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GohulSundarJ&" alt="GohulSundarJ" /></p>
 </center>
 
 <br>
